@@ -1,0 +1,284 @@
+[
+  {
+    "title": "Data Scientist",
+    "required_skills": [
+      {"skill": "Python", "required_level": 8, "weight": 0.9},
+      {"skill": "Statistics", "required_level": 7, "weight": 0.8},
+      {"skill": "Machine Learning", "required_level": 7, "weight": 0.9},
+      {"skill": "SQL", "required_level": 6, "weight": 0.6},
+      {"skill": "Data Visualization", "required_level": 5, "weight": 0.4}
+    ],
+    "min_years_experience": 2,
+    "preferred_education": ["BS Data Science", "MS Data Science", "MSc Statistics", "PhD Data Science", "BS Computer Science", "MS Computer Science"],
+    "aliases": ["Data Science Specialist", "ML Data Scientist"],
+    "industry": "Technology",
+    "remote_friendly": true
+  },
+  {
+    "title": "Software Developer",
+    "required_skills": [
+      {"skill": "Programming", "required_level": 8, "weight": 1.0},
+      {"skill": "Data Structures", "required_level": 7, "weight": 0.8},
+      {"skill": "System Design", "required_level": 6, "weight": 0.6},
+      {"skill": "Testing", "required_level": 5, "weight": 0.4}
+    ],
+    "min_years_experience": 1,
+    "preferred_education": ["BS Computer Science", "MS Computer Science", "BS Software Engineering", "MS Software Engineering", "Bachelor of Computer Applications (BCA)"],
+    "aliases": ["Software Engineer", "Developer", "Programmer"],
+    "industry": "Technology",
+    "remote_friendly": true
+  },
+  {
+    "title": "ML Engineer",
+    "required_skills": [
+      {"skill": "Python", "required_level": 8, "weight": 0.9},
+      {"skill": "Machine Learning", "required_level": 8, "weight": 1.0},
+      {"skill": "MLOps", "required_level": 6, "weight": 0.7},
+      {"skill": "Docker", "required_level": 5, "weight": 0.4}
+    ],
+    "min_years_experience": 2,
+    "preferred_education": ["MS Machine Learning", "MSc Artificial Intelligence", "MS Computer Science", "PhD Computer Science"],
+    "aliases": ["Machine Learning Engineer", "AI Engineer"],
+    "industry": "Technology",
+    "remote_friendly": true
+  },
+  {
+    "title": "Data Engineer",
+    "required_skills": [
+      {"skill": "SQL", "required_level": 8, "weight": 0.9},
+      {"skill": "Python", "required_level": 7, "weight": 0.8},
+      {"skill": "ETL", "required_level": 7, "weight": 0.9},
+      {"skill": "Data Warehousing", "required_level": 6, "weight": 0.7},
+      {"skill": "Big Data", "required_level": 6, "weight": 0.6}
+    ],
+    "min_years_experience": 2,
+    "preferred_education": ["BS Computer Science", "MS Data Science", "BS Information Technology", "MS Information Systems"],
+    "aliases": ["Big Data Engineer", "ETL Developer"],
+    "industry": "Technology",
+    "remote_friendly": true
+  },
+  {
+    "title": "AI Researcher",
+    "required_skills": [
+      {"skill": "Machine Learning", "required_level": 9, "weight": 1.0},
+      {"skill": "Python", "required_level": 8, "weight": 0.9},
+      {"skill": "Research", "required_level": 8, "weight": 0.8},
+      {"skill": "Mathematics", "required_level": 8, "weight": 0.8}
+    ],
+    "min_years_experience": 3,
+    "preferred_education": ["PhD Computer Science", "PhD Data Science", "MSc Artificial Intelligence", "MS Machine Learning"],
+    "aliases": ["Artificial Intelligence Researcher", "Research Scientist"],
+    "industry": "Technology/Research",
+    "remote_friendly": true
+  },
+  {
+    "title": "Product Manager",
+    "required_skills": [
+      {"skill": "Product Management", "required_level": 8, "weight": 1.0},
+      {"skill": "Communication", "required_level": 8, "weight": 0.9},
+      {"skill": "Market Research", "required_level": 7, "weight": 0.7},
+      {"skill": "Strategy", "required_level": 7, "weight": 0.7}
+    ],
+    "min_years_experience": 3,
+    "preferred_education": ["MBA", "MS Business Administration", "BS Business Administration", "MS Human-Computer Interaction"],
+    "aliases": ["Product Owner", "Technical Product Manager"],
+    "industry": "Technology",
+    "remote_friendly": true
+  },
+  {
+    "title": "QA Engineer",
+    "required_skills": [
+      {"skill": "Testing", "required_level": 8, "weight": 1.0},
+      {"skill": "Automation", "required_level": 7, "weight": 0.8},
+      {"skill": "Programming", "required_level": 6, "weight": 0.6},
+      {"skill": "Debugging", "required_level": 7, "weight": 0.7}
+    ],
+    "min_years_experience": 1,
+    "preferred_education": ["BS Computer Science", "BS Information Technology", "MS Software Engineering"],
+    "aliases": ["Quality Assurance Engineer", "Test Engineer"],
+    "industry": "Technology",
+    "remote_friendly": true
+  },
+  {
+    "title": "DevOps Engineer",
+    "required_skills": [
+      {"skill": "Linux", "required_level": 8, "weight": 0.9},
+      {"skill": "Docker", "required_level": 8, "weight": 0.9},
+      {"skill": "CI/CD", "required_level": 8, "weight": 0.9},
+      {"skill": "Cloud", "required_level": 7, "weight": 0.8}
+    ],
+    "min_years_experience": 2,
+    "preferred_education": ["BS Computer Science", "MS Computer Science", "BS Information Technology"],
+    "aliases": ["Site Reliability Engineer", "Platform Engineer"],
+    "industry": "Technology",
+    "remote_friendly": true
+  },
+  {
+    "title": "UX Designer",
+    "required_skills": [
+      {"skill": "UI/UX Design", "required_level": 8, "weight": 1.0},
+      {"skill": "User Research", "required_level": 7, "weight": 0.8},
+      {"skill": "Wireframing", "required_level": 8, "weight": 0.8},
+      {"skill": "Prototyping", "required_level": 7, "weight": 0.7}
+    ],
+    "min_years_experience": 2,
+    "preferred_education": ["Bachelor of Design (BDes)", "Master of Design (MDes)", "MS Human-Computer Interaction", "BS Computer Science"],
+    "aliases": ["User Experience Designer", "UI Designer"],
+    "industry": "Technology",
+    "remote_friendly": true
+  },
+  {
+    "title": "Business Analyst",
+    "required_skills": [
+      {"skill": "Analytics", "required_level": 8, "weight": 1.0},
+      {"skill": "SQL", "required_level": 7, "weight": 0.8},
+      {"skill": "Requirements Gathering", "required_level": 8, "weight": 0.9},
+      {"skill": "Communication", "required_level": 8, "weight": 0.9}
+    ],
+    "min_years_experience": 2,
+    "preferred_education": ["BS Business Administration", "MBA", "BS Economics", "MS Statistics"],
+    "aliases": ["Business Systems Analyst", "Technical Analyst"],
+    "industry": "Technology/Finance",
+    "remote_friendly": true
+  },
+  {
+    "title": "Frontend Developer",
+    "required_skills": [
+      {"skill": "JavaScript", "required_level": 8, "weight": 1.0},
+      {"skill": "HTML/CSS", "required_level": 8, "weight": 0.9},
+      {"skill": "React", "required_level": 7, "weight": 0.8},
+      {"skill": "UI/UX", "required_level": 6, "weight": 0.6}
+    ],
+    "min_years_experience": 1,
+    "preferred_education": ["BS Computer Science", "BS Web Development", "Bachelor of Computer Applications (BCA)"],
+    "aliases": ["Web Developer", "UI Developer"],
+    "industry": "Technology",
+    "remote_friendly": true
+  },
+  {
+    "title": "Backend Developer",
+    "required_skills": [
+      {"skill": "Programming", "required_level": 8, "weight": 1.0},
+      {"skill": "API Design", "required_level": 7, "weight": 0.8},
+      {"skill": "Database", "required_level": 7, "weight": 0.8},
+      {"skill": "System Architecture", "required_level": 6, "weight": 0.7}
+    ],
+    "min_years_experience": 2,
+    "preferred_education": ["BS Computer Science", "MS Computer Science", "BS Software Engineering"],
+    "aliases": ["Server Developer", "API Developer"],
+    "industry": "Technology",
+    "remote_friendly": true
+  },
+  {
+    "title": "Full Stack Developer",
+    "required_skills": [
+      {"skill": "JavaScript", "required_level": 8, "weight": 0.9},
+      {"skill": "Programming", "required_level": 8, "weight": 1.0},
+      {"skill": "Database", "required_level": 7, "weight": 0.8},
+      {"skill": "API Design", "required_level": 7, "weight": 0.8}
+    ],
+    "min_years_experience": 2,
+    "preferred_education": ["BS Computer Science", "MS Computer Science", "BS Web Development"],
+    "aliases": ["Full Stack Engineer", "Web Developer"],
+    "industry": "Technology",
+    "remote_friendly": true
+  },
+  {
+    "title": "Cloud Engineer",
+    "required_skills": [
+      {"skill": "Cloud", "required_level": 8, "weight": 1.0},
+      {"skill": "Networking", "required_level": 7, "weight": 0.8},
+      {"skill": "Security", "required_level": 7, "weight": 0.8},
+      {"skill": "Automation", "required_level": 7, "weight": 0.7}
+    ],
+    "min_years_experience": 2,
+    "preferred_education": ["BS Computer Science", "MS Computer Science", "BS Information Technology", "MS Cloud Computing"],
+    "aliases": ["Cloud Architect", "Cloud Developer"],
+    "industry": "Technology",
+    "remote_friendly": true
+  },
+  {
+    "title": "Data Analyst",
+    "required_skills": [
+      {"skill": "SQL", "required_level": 8, "weight": 1.0},
+      {"skill": "Excel", "required_level": 7, "weight": 0.8},
+      {"skill": "Data Visualization", "required_level": 7, "weight": 0.8},
+      {"skill": "Statistics", "required_level": 6, "weight": 0.7}
+    ],
+    "min_years_experience": 1,
+    "preferred_education": ["BS Statistics", "BS Mathematics", "BS Economics", "BS Data Science"],
+    "aliases": ["Business Intelligence Analyst", "Reporting Analyst"],
+    "industry": "Technology/Finance",
+    "remote_friendly": true
+  },
+  {
+    "title": "Security Engineer",
+    "required_skills": [
+      {"skill": "Security", "required_level": 8, "weight": 1.0},
+      {"skill": "Networking", "required_level": 7, "weight": 0.8},
+      {"skill": "Linux", "required_level": 7, "weight": 0.8},
+      {"skill": "Cryptography", "required_level": 6, "weight": 0.7}
+    ],
+    "min_years_experience": 2,
+    "preferred_education": ["BS Cybersecurity", "MS Cybersecurity", "BS Computer Science", "MS Computer Science"],
+    "aliases": ["Cybersecurity Engineer", "Information Security Engineer"],
+    "industry": "Technology",
+    "remote_friendly": true
+  },
+  {
+    "title": "Mobile Developer",
+    "required_skills": [
+      {"skill": "Mobile Development", "required_level": 8, "weight": 1.0},
+      {"skill": "JavaScript", "required_level": 7, "weight": 0.8},
+      {"skill": "UI/UX", "required_level": 7, "weight": 0.7},
+      {"skill": "API Integration", "required_level": 7, "weight": 0.7}
+    ],
+    "min_years_experience": 1,
+    "preferred_education": ["BS Computer Science", "BS Mobile Development", "Bachelor of Computer Applications (BCA)"],
+    "aliases": ["iOS Developer", "Android Developer"],
+    "industry": "Technology",
+    "remote_friendly": true
+  },
+  {
+    "title": "Technical Writer",
+    "required_skills": [
+      {"skill": "Writing", "required_level": 9, "weight": 1.0},
+      {"skill": "Technical Knowledge", "required_level": 7, "weight": 0.9},
+      {"skill": "Documentation", "required_level": 8, "weight": 0.9},
+      {"skill": "Communication", "required_level": 8, "weight": 0.8}
+    ],
+    "min_years_experience": 1,
+    "preferred_education": ["BS English", "BS Technical Communication", "BS Computer Science"],
+    "aliases": ["Documentation Specialist", "Content Developer"],
+    "industry": "Technology",
+    "remote_friendly": true
+  },
+  {
+    "title": "Scrum Master",
+    "required_skills": [
+      {"skill": "Agile", "required_level": 8, "weight": 1.0},
+      {"skill": "Scrum", "required_level": 8, "weight": 0.9},
+      {"skill": "Communication", "required_level": 8, "weight": 0.9},
+      {"skill": "Project Management", "required_level": 7, "weight": 0.8}
+    ],
+    "min_years_experience": 2,
+    "preferred_education": ["BS Business Administration", "MBA", "BS Project Management"],
+    "aliases": ["Agile Coach", "Project Coordinator"],
+    "industry": "Technology",
+    "remote_friendly": true
+  },
+  {
+    "title": "Database Administrator",
+    "required_skills": [
+      {"skill": "SQL", "required_level": 9, "weight": 1.0},
+      {"skill": "Database", "required_level": 8, "weight": 0.9},
+      {"skill": "Performance Tuning", "required_level": 7, "weight": 0.8},
+      {"skill": "Backup/Recovery", "required_level": 7, "weight": 0.7}
+    ],
+    "min_years_experience": 2,
+    "preferred_education": ["BS Computer Science", "BS Information Technology", "MS Database Management"],
+    "aliases": ["DBA", "Database Manager"],
+    "industry": "Technology",
+    "remote_friendly": true
+  }
+]
