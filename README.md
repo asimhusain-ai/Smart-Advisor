@@ -1,5 +1,6 @@
-# 🚀 Smart Career Advisor - AI-Powered Career Path Recommendation System
-Note: The Code is completely generated / build by LLMs and APIs (It was allowed by GenAI Exchange Hackathon)! https://asimhusain.vercel.app
+# Smart Career Advisor - AI-Powered Career Path Recommendation System
+Note: This project has been uniquely built leveraging Generative AI tools (ChatGPT, DeepSeek, and OpenAI APIs). While the core code generation was AI-assisted, the real challenge—prompt engineering, code restructuring, debugging, integration, feature management, and deployment—was entirely done by me.
+The approach demonstrates how AI can accelerate development, but the vision, problem-solving, and execution behind the project are 100% human-driven. Made With ❤️  https://asimhusain.vercel.app
 
 ![React](https://img.shields.io/badge/React-18.2.0-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-green)
@@ -34,21 +35,13 @@ This project was developed for the GenAI Exchange Hackathon, showcasing advanced
 git clone https://github.com/yourusername/smart-career-advisor.git
 
 # Setup backend
-cd backend
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
+  1. cd backend
+  2. python -m venv venv
+  3. source venv/bin/activate
+  4. pip install -r requirements.txt
+  5. uvicorn app.main:app --reload
 
-# Setup frontend
-cd ../frontend
-npm install
-
-# Run the application
-docker-compose up
-
-
-# Run Backend
-uvicorn app.main:app --reload
-
-# Run Frontend
-npm start
+# Setup frontend[Use Another Terminal]
+  1. cd ../frontend
+  2. npm install
+  3. npm start
